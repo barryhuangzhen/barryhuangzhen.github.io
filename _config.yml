@@ -7,7 +7,7 @@ email: 420115963@qq.com
 keyword: "互联网，产品经理"
 url: "https://barryhuangzhen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/barryhuangzhen/barryhuangzhen.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
