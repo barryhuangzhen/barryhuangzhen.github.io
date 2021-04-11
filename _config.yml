@@ -3,7 +3,7 @@ title: 黄震的个人网站
 SEOTitle: 黄震的个人网站 - 学习成长
 header-img: img/post-bg-desk.jpg
 email: 420115963@qq.com
-description: "黄震的学习记录网站"
+# description: "黄震的学习记录网站"
 keyword: "互联网，产品经理"
 url: "https://barryhuangzhen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
